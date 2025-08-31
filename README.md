@@ -1,6 +1,6 @@
 # 🏦 On-Chain Piggy Bank
 
-A timelock savings dApp built for the Flow Hackathon, deployed on Flow EVM testnet.
+A timelock savings dApp built deployed on Flow EVM testnet.
 
 ## ✨ Features
 
